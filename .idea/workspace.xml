@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eab1f6b-b95d-4ff4-8d8c-6ba0ae2d565a" name="Changes" comment="" />
+    <list default="true" id="1eab1f6b-b95d-4ff4-8d8c-6ba0ae2d565a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/LatihanActivityTransitionStarter/app/src/main/java/com/dicoding/picodiploma/myrecyclerview/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/LatihanActivityTransitionStarter/app/src/main/java/com/dicoding/picodiploma/myrecyclerview/MainActivity.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2X16dnvqLl9h0SwXVjL5Myfn3oV" />
   <component name="ProjectViewState">
@@ -21,7 +29,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "D:/LatihanActivityTransitionStarter/LatihanActivityTransitionStarter"
+    "last_opened_file_path": "D:/LatihanActivityTransitionStarter"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

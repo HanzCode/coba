@@ -47,4 +47,17 @@ class MainActivity : AppCompatActivity() {
             }
             return listHero
         }
+
+    private val listHeroes1: ArrayList<Hero>
+        get() {
+            val dataName = resources.getStringArray(R.array.data_name)
+            val dataDescription = resources.getStringArray(R.array.data_description)
+            val dataPhoto = resources.getStringArray(R.array.data_photo)
+            val listHero = ArrayList<Hero>()
+            for (i in dataName.indices) {
+                val hero = Hero(dataName[i], dataDescription[i], dataPhoto[i])
+                listHero.add(hero)
+            }
+            return listHero
+        }
 }
